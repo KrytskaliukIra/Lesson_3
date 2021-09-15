@@ -1,0 +1,77 @@
+/* * *,
+*::before,
+*::after {
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+li {
+	list-style: none;
+}
+a,
+a:visited {
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: none;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-weight: inherit;
+	font-size: inherit;
+}
+img {
+	vertical-align: top;
+} */
+mark {
+	color: indigo;
+}
+
+h2.blue {
+	color: blue;
+}
+
+#p1,
+#p2 {
+	color: chartreuse;
+}
+
+.pink {
+	color: hotpink;
+}
+
+.blue * {
+	color: blue;
+}
+
+.red {
+	color: red;
+}
+
+footer a {
+	color: violet;
+}
+
+.orange li {
+	color: orange;
+}
+
+li {
+	color: darkmagenta;
+}
+
+ul li {
+	color: darkslateblue;
+}
+
+p {
+	color: darkslategrey;
+}
+
+.text {
+	color: maroon;
+}
